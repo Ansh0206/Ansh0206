@@ -1,16 +1,25 @@
-## Hi there 👋
+const sandeep: Developer = {
+  name        : "Ansh",
+  location    : "India 🇮🇳",
+  role        : "Full Stack Developer & Applied AI Engineer",
 
-<!--
-**Ansh0206/Ansh0206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  currentFocus: [
+    "RAG Pipelines & Autonomous AI Agents",
+    "LLM-powered backend systems",
+    "Backend development with Spring Boot",
+    "Backend latency optimization & scalability",
+    "Deep Learning — GANs, Transformers, LLMs & AI Agents",
+  ],
 
-Here are some ideas to get you started:
+  techStack: {
+    languages : ["Java", "Python", "TypeScript", "JavaScript"],
+    backend   : ["Spring Boot", "FastAPI", "Node.js", "Flask"],
+    databases : ["PostgreSQL", "MongoDB", "MySQL", "Firebase"],
+    frontend  : ["React", "Next.js", "Tailwind CSS", "Bootstrap", "Vite", "Figma"],
+    aiml      : ["TensorFlow", "PyTorch", "scikit-learn", "LangChain"],
+    devops    : ["Docker", "GCP", "Linux", "Git", "VS Code"],
+  },
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  currentlyLearning : ["LangGraph", "Vector Databases", "Microservices", "System Design"],
+  openTo            : ["AI/ML collaborations", "Open Source", "Backend projects"],
+};
